@@ -1,16 +1,17 @@
-## Hi there 👋
+## Halo, saya Rafif! 👋
 
-<!--
-**OLHLC/OLHLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pengajar yang sedang menempuh jalur belajar otodidak (*self-taught*) untuk menjadi **Game Developer**. Ketertarikan saya pada dunia *game* mendorong saya untuk mulai membangun fondasi pemrograman dari nol.
 
-Here are some ideas to get you started:
+### 🗺️ Roadmap Belajar Saya
+- [x] **Python** *(Dasar logika & pemrograman — Selesai)*
+- [ ] **C#** *(Target berikutnya untuk Game Development / Unity)*
+- [ ] **C++** *(Pemrograman performa tinggi & game engine)*
+- [ ] **JavaScript** *(Pengembangan game berbasis web & interaktif)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Sertifikat
+- [Python - SoloLearn](https://api2.sololearn.com/v2/certificates/CC-FUCSUORC/image/png?t=639307214696440060)
+
+### 📫 Kontak
+- Email: rafifrizki226@gmail.com
+
+
